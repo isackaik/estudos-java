@@ -14,6 +14,7 @@ Irei seguir um Guia de Estudos, contendo conteúdos básicos da linguagem a Fram
 
 - Listas, sets e maps.
 - Collections FrameWork
+- Generics
 
 ### API de Entrada/Saída:
 
